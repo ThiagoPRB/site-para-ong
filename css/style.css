@@ -1,0 +1,12 @@
+:root {
+    --verde-escuro: #132A13;
+    --verde-medio: #31572C;
+    --verde-medio-claro: #4F772D;
+    --verde-claro: #90A955;
+    --destaque: #ECF39E;
+    --creme: #F7F4EE;
+    --texto: #132A13;
+}
+
+* {box-sizing: border-box; margin: 0; padding: 0;
+}
