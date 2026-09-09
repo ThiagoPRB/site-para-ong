@@ -17,3 +17,15 @@ body {
     background: var(--creme);
     line-height: 1.6;
 }
+
+header {
+    background: var(--verde-escuro);
+    color: #fff;
+    padding: 1rem, 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
